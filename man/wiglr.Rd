@@ -4,8 +4,15 @@
 \name{wiglr}
 \alias{wiglr}
 \alias{wiglr-package}
-\title{...}
+\title{Query and Submit Wi-Fi and Cellular Network Information on 'WiGLE'}
 \description{
+'WiGLE' consolidates location and information of wireless networks
+world-wide to a central database, and has both a user-friendly desktop+web
+application plus rich API that can map, query and update the location database.
+Non-commerical use of the data is bound by the 'WiGLE' EULA \url{https://wigle.net/eula.html}.
+Use of the API requires a 'WiGLE' API key \url{https://wigle.net/account}.
+}
+\details{
 \itemize{
 \item URL: \url{https://gitlab.com/hrbrmstr/wiglr}
 \item BugReports: \url{https://gitlab.com/hrbrmstr/wiglr/issues}
@@ -14,3 +21,4 @@
 \author{
 Bob Rudis (bob@rud.is)
 }
+\keyword{internal}
